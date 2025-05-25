@@ -1,26 +1,40 @@
-## Salut, moi c’est Charles
+# Hello, I'm Charles – MERN Stack Developer
 
-### Développeur Full Stack Python / JavaScript
+Bienvenue sur mon profil GitHub ! Je suis un ingénieur logiciel fullstack spécialisé dans la stack **MERN** :
+**MongoDB, Express.js, React.js, Node.js**.
 
-Passionné par la tech, je construis des applications web modernes et performantes côté frontend et backend.
-
-### Stack principale :
-- **Frontend** : React, JavaScript ES6+, HTML5, CSS3, Tailwind CSS
-- **Backend** : Python, Django, Django REST Framework, FastAPI
-- **Outils** : Git, GitHub, Docker, PostgreSQL, Postman
-
-### Ce que je construis :
-- APIs REST sécurisées
-- Interfaces utilisateur dynamiques
-- Dashboards administrateurs
-- Projets web de A à Z
-
-### Me contacter :
-- [LinkedIn](https://linkedin.com/in/charles-mpon-a-dang-2b0649358)
-- Email : madcpatson90@gmail.com
+**Objectif** : créer des applications web modernes, performantes et maintenables, de l’API backend jusqu’à l’interface utilisateur.
 
 ---
 
-Toujours motivé pour apprendre, créer et collaborer 🚀  
+## Stack principale
+
+- **Backend** : Node.js, Express.js, MongoDB, Mongoose  
+- **Frontend** : React.js, React Router, Redux   
+- **UI** : Tailwind CSS, HTML5, CSS3  
+- **Auth** : JWT, middleware Express  
+- **Outils** : Git, GitHub, Postman, VS Code, dotenv  
+- **Déploiement** : Vercel, Render 
+
+
+## Ce que j’apprends actuellement
+
+- Amélioration des performances d’API
+- Tests avec Jest & React Testing Library
+- CI/CD avec GitHub Actions
+- Next.js (pour SSR et SSG)
+
+---
+## Me contacter
+
+- [LinkedIn](https://linkedin.com/in/charles-mpon-a-dang-2b0649358)
+- Email : madcpatson90@gmail.com
+  
+---
+## Merci d’avoir visité !
+
+N’hésite pas à explorer mes repos, ouvrir des issues ou échanger avec moi.  
+Je suis toujours ouvert à des collaborations, projets open-source, ou opportunités pro !
+Toujours motivé pour apprendre, créer et collaborer 
 Disponible pour missions freelance ou poste en CDI.
 
