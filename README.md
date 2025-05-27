@@ -1,40 +1,52 @@
-# Hello, I'm Charles – MERN Stack Developer
-
-Bienvenue sur mon profil GitHub ! Je suis un ingénieur logiciel fullstack spécialisé dans la stack **MERN** :
-**MongoDB, Express.js, React.js, Node.js**.
-
-**Objectif** : créer des applications web modernes, performantes et maintenables, de l’API backend jusqu’à l’interface utilisateur.
+<h1 align="center">Salut, je suis Charles</h1>
+<h3 align="center">Développeur Web Full Stack | Python & JavaScript</h3>
 
 ---
 
-## Stack principale
+### À propos de moi
 
-- **Backend** : Node.js, Express.js, MongoDB, Mongoose  
-- **Frontend** : React.js, React Router, Redux   
-- **UI** : Tailwind CSS, HTML5, CSS3  
-- **Auth** : JWT, middleware Express  
-- **Outils** : Git, GitHub, Postman, VS Code, dotenv  
-- **Déploiement** : Vercel, Render 
-
-
-## Ce que j’apprends actuellement
-
-- Amélioration des performances d’API
-- Tests avec Jest & React Testing Library
-- CI/CD avec GitHub Actions
-- Next.js (pour SSR et SSG)
+Diplômé d’un **Master en Informatique**  
+Passionné par le **développement web**, je me forme activement à la stack **Python/JavaScript**  
+En route pour devenir **Développeur Full Stack** avec des compétences solides côté **Frontend (React, Bootstrap, Tailwind CSS)** et **Backend (Django, Flask)**  
+J’apprends aussi à maîtriser les bonnes pratiques : **API REST, bases de données, tests, déploiement Docker/CI/CD**
 
 ---
-## Me contacter
 
-- [LinkedIn](https://linkedin.com/in/charles-mpon-a-dang-2b0649358)
-- Email : madcpatson90@gmail.com
-  
+### Technologies que j’utilise
+
+- **Frontend** : HTML5, CSS3, JavaScript (ES6+), React, Bootstrap, Tailwind CSS   
+- **Backend** : Python, Flask, Django, API REST  
+- **Base de données** : PostgreSQL, SQLite  
+- **Outils & DevOps** : Git, GitHub, VS Code, Postman, Docker (en cours d’apprentissage)  
+- **Autres** : Responsive Design, MVC, Clean Architecture
+
 ---
-## Merci d’avoir visité !
 
-N’hésite pas à explorer mes repos, ouvrir des issues ou échanger avec moi.  
-Je suis toujours ouvert à des collaborations, projets open-source, ou opportunités pro !
-Toujours motivé pour apprendre, créer et collaborer 
-Disponible pour missions freelance ou poste en CDI.
+### Projets récents
+
+| Projet | Description | Stack | Lien |
+|--------|-------------|-------|------|
+| To-do App | Application de gestion de tâches avec authentification | React, Flask, PostgreSQL
+| Blog API | Backend d’un blog avec gestion utilisateurs, JWT et CRUD | Django REST Framework 
+| Portfolio | Mon site personnel pour présenter mes projets | HTML, CSS, JS
+
+---
+
+### Me contacter
+
+- LinkedIn :  http://www.linkedin.com/in/charles-mpon-a-dang-2b0649358
+- Email : adangcharles3@gmail.com
+
+---
+
+### Objectif actuel
+
+> Améliorer mes compétences, contribuer à des projets open-source, et décrocher mon premier poste de développeur web.
+
+---
+
+### Fun fact
+
+Je suis aussi curieux de tout ce qui touche à la cybersécurité, l’IA et la création de produits tech utiles au quotidien.
+
 
