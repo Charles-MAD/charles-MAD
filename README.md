@@ -1,52 +1,50 @@
-<h1 align="center">Salut, je suis Charles</h1>
-<h3 align="center">Développeur Web Full Stack | Python & JavaScript</h3>
+# Bonjour, moi c'est Charles
+
+**Développeur Python | JavaScript | Data | Web**  
+Passionné par la **donnée**, les **technologies web** et l'**automatisation intelligente**
 
 ---
 
-### À propos de moi
+## À propos de moi
 
-Diplômé d’un **Master en Informatique**  
-Passionné par le **développement web**, je me forme activement à la stack **Python/JavaScript**  
-En route pour devenir **Développeur Full Stack** avec des compétences solides côté **Frontend (React, Bootstrap, Tailwind CSS)** et **Backend (Django, Flask)**  
-J’apprends aussi à maîtriser les bonnes pratiques : **API REST, bases de données, tests, déploiement Docker/CI/CD**
+Titulaire d’un Master en Systèmes et Logiciels, je développe aujourd’hui des projets mêlant **analyse de données**, **visualisation**, et **applications web**.  
+Je suis en reconversion active vers les métiers de la **data** (analyste, BI, automatisation) tout en gardant un fort intérêt pour le **développement web (back-end Python, front-end JS)**.
 
----
-
-### Technologies que j’utilise
-
-- **Frontend** : HTML5, CSS3, JavaScript (ES6+), React, Bootstrap, Tailwind CSS   
-- **Backend** : Python, Flask, Django, API REST  
-- **Base de données** : PostgreSQL, SQLite  
-- **Outils & DevOps** : Git, GitHub, VS Code, Postman, Docker (en cours d’apprentissage)  
-- **Autres** : Responsive Design, MVC, Clean Architecture
+J’apprends vite, je construis, je teste, et je documente tout ce que je fais.
 
 ---
 
-### Projets récents
+## Compétences techniques
 
-| Projet | Description | Stack | Lien |
-|--------|-------------|-------|------|
-| To-do App | Application de gestion de tâches avec authentification | React, Flask, PostgreSQL
-| Blog API | Backend d’un blog avec gestion utilisateurs, JWT et CRUD | Django REST Framework 
-| Portfolio | Mon site personnel pour présenter mes projets | HTML, CSS, JS
-
----
-
-### Me contacter
-
-- LinkedIn :  http://www.linkedin.com/in/charles-mpon-a-dang-2b0649358
-- Email : adangcharles3@gmail.com
+- Python (Pandas, NumPy, Matplotlib, Django, Flask) 
+- Power BI, Excel, SQL
+- JavaScript, HTML5, CSS3, React.js
+- Git, GitHub, Jupyter Notebook
+- Outils : VS Code, Talend/ETL, Postman
 
 ---
 
-### Objectif actuel
+## Projets en vedette
 
-> Améliorer mes compétences, contribuer à des projets open-source, et décrocher mon premier poste de développeur web.
+- **Analyse de churn client**  
+  Nettoyage de données, visualisation avec Seaborn, détection des segments à risque  
+
+- **Mini-app météo en Flask**  
+  API météo, blog back-end Python + front JS   
+
+- **Dashboard Power BI - ventes e-commerce**  
+  Filtres dynamiques, tendances mensuelles, indicateurs clé  
 
 ---
 
-### Fun fact
+## Contact
 
-Je suis aussi curieux de tout ce qui touche à la cybersécurité, l’IA et la création de produits tech utiles au quotidien.
+- adangcharles3@gmail.com|mailto:adangcharles3@gmail.com
+- https://www.linkedin.com/in/charles-mpon-a-dang-2b0649358
+
+---
+
+> En formation continue, curieux et ouvert aux opportunités dans la data ou le développement Python
+
 
 
