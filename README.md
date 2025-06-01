@@ -29,7 +29,7 @@ J’apprends vite, je construis, je teste, et je documente tout ce que je fais.
 - **Analyse de churn client**  
   Nettoyage de données, visualisation avec Seaborn, détection des segments à risque  
 
-- **Mini-app météo en Flask**  
+- **Mini-apps météo et blog en Django**  
   API météo, blog back-end Python + front JS   
 
 - **Dashboard Power BI - ventes e-commerce**  
