@@ -1,6 +1,6 @@
 # Bonjour, moi c'est Charles
 
-**DAnalyste en Cybersécurité | Passionné par la détection et l'automatisation | Pythonb**  
+**Analyste en Cybersécurité | Passionné par la détection et l'automatisation | Pythonb**  
 
 ---
 
