@@ -1,36 +1,53 @@
 # Bonjour, moi c'est Charles
 
-**Analyste en Cybersécurité | Passionné par la détection et l'automatisation | Pythonb**  
+**Ingénieur Logiciel | Aspirant Data Analyst & Analyste SOC | Passionné par la donnée et la cybersécurité**  
 
 ---
 
 ## À propos de moi
 
-Je suis diplômé d’un Master en Systèmes et Logiciels, spécialisé en cybersécurité et analyste SOC et d'un master en sésurité informatique et système d'information en devenir. J’utilise Python pour automatiser l’analyse de logs et renforcer la sécurité des systèmes.
+Je suis diplômé d’un Master en systèmes et logiciels, avec une base solide en développement. Aujourd’hui, je me spécialise dans l’analyse de données et la cybersécurité défensive.
+J’utilise Python pour manipuler des données, automatiser des tâches de sécurité, et créer des scripts utiles pour les métiers du SOC.
 
 ---
 
 ## Compétences techniques
 
-- Analyse de logs & détection d’anomalies
+## Compétences en Cybersécurité (SOC)
+Analyse de logs (Linux, Windows, Réseau)
 
-- Python (scripts d’automatisation & parsing)
+- SIEM : Wazuh, Splunk (bases)
 
-- Outils SOC : Wireshark, Splunk (bases), Wazuh
+- Framework : MITRE ATT&CK
 
-- Connaissance des environnements Linux & Windows
+- Scripts Python pour parser des fichiers de logs
 
-- Apprentissage continu : TryHackMe, Hack The Box, BTLO
+- Outils : Wireshark, Suricata, nmap, Fail2ban
+
+- Notions : Incident Response, threat detection, blue teaming
+
+## Compétences en Data Analysis
+- Langages : Python (Pandas, NumPy, Matplotlib, Seaborn)
+
+- Bases de données : SQL, PostgreSQL
+
+- Visualisation : Power BI, Tableau
+
+- Statistiques descriptives, analyse exploratoire, data cleaning
+
+- Outils : Jupyter Notebook, Git, Google Sheets
 
 ---
 
 ## Projets en vedette
 
-- **Scripts Python d’analyse de logs :**  
-  outils pour extraire et analyser des données de sécurité 
 
-- **Mini SIEM maison :**  
- projet d’agrégation simple de logs (en cours)  
+- **Scripts Python d’analyse de logs système :**
+  projet d’agrégation simple de logs (en cours)  
+
+- **Tableau de bord Power BI sur des données publiques:**   
+
+- **Analyse de jeux de données CSV : nettoyage, traitement, visualisation :**
 
 - **Challenges TryHackMe & Hack The Box :**  
    résolution de labs pratiques en cybersécurité  
