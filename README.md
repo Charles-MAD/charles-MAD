@@ -1,39 +1,39 @@
 # Bonjour, moi c'est Charles
 
-**Développeur Python | JavaScript | Data | Web**  
-Passionné par la **donnée**, les **technologies web** et l'**automatisation intelligente**
+**DAnalyste en Cybersécurité | Passionné par la détection et l'automatisation | Pythonb**  
 
 ---
 
 ## À propos de moi
 
-Titulaire d’un Master en Systèmes et Logiciels, je développe aujourd’hui des projets mêlant **analyse de données**, **visualisation**, et **applications web**.  
-Je suis en reconversion active vers les métiers de la **data** (analyste, BI, automatisation) tout en gardant un fort intérêt pour le **développement web (back-end Python, front-end JS)**.
-
-J’apprends vite, je construis, je teste, et je documente tout ce que je fais.
+Je suis diplômé d’un Master en Systèmes et Logiciels, spécialisé en cybersécurité et analyste SOC et d'un master en sésurité informatique et système d'information en devenir. J’utilise Python pour automatiser l’analyse de logs et renforcer la sécurité des systèmes.
 
 ---
 
 ## Compétences techniques
 
-- Python (Pandas, NumPy, Matplotlib, Django, Flask) 
-- Power BI, Excel, SQL
-- JavaScript, HTML5, CSS3, React.js
-- Git, GitHub, Jupyter Notebook
-- Outils : VS Code, Talend/ETL, Postman
+- Analyse de logs & détection d’anomalies
+
+- Python (scripts d’automatisation & parsing)
+
+- Outils SOC : Wireshark, Splunk (bases), Wazuh
+
+- Connaissance des environnements Linux & Windows
+
+- Apprentissage continu : TryHackMe, Hack The Box, BTLO
 
 ---
 
 ## Projets en vedette
 
-- **Analyse de churn client**  
-  Nettoyage de données, visualisation avec Seaborn, détection des segments à risque  
+- **Scripts Python d’analyse de logs :**  
+  outils pour extraire et analyser des données de sécurité 
 
-- **Mini-apps météo et blog en Django**  
-  API météo, blog back-end Python + front JS   
+- **Mini SIEM maison :**  
+ projet d’agrégation simple de logs (en cours)  
 
-- **Dashboard Power BI - ventes e-commerce**  
-  Filtres dynamiques, tendances mensuelles, indicateurs clé  
+- **Challenges TryHackMe & Hack The Box :**  
+   résolution de labs pratiques en cybersécurité  
 
 ---
 
@@ -44,7 +44,7 @@ J’apprends vite, je construis, je teste, et je documente tout ce que je fais.
 
 ---
 
-> En formation continue, curieux et ouvert aux opportunités dans la data ou le développement Python
+> En formation continue, curieux et ouvert aux opportunités dans la cybersécurité
 
 
 
