@@ -29,7 +29,7 @@ Je suis ouvert aux opportunités en **CDI, stage, alternance, télétravail ou f
 
 ---
 
-> En formation continue, curieux et ouvert aux opportunités dans la cybersécurité
+> En formation continue, curieux et ouvert aux opportunités dans la cybersécurité, système & réseaux
 
 
 
