@@ -1,59 +1,27 @@
-# Bonjour, moi c'est Charles
+# Salut, je suis Charles !
 
-**Ingénieur Logiciel | Aspirant Data Analyst & Analyste SOC | Passionné par la donnée et la cybersécurité**  
-
----
-
-## À propos de moi
-
-Je suis diplômé d’un Master en systèmes et logiciels, avec une base solide en développement. Aujourd’hui, je me spécialise dans l’analyse de données et la cybersécurité défensive.
-J’utilise Python pour manipuler des données, automatiser des tâches de sécurité, et créer des scripts utiles pour les métiers du SOC.
+Étudiant en Master Sécurité Informatique & Systèmes d’Information  
+Titulaire d’un Master en Systèmes & Logiciels en environnement distribué  
+Passionné par la cybersécurité, l'administration systèmes & réseaux, et l'automatisation
 
 ---
 
 ## Compétences techniques
 
-## Compétences en Cybersécurité (SOC)
-Analyse de logs (Linux, Windows, Réseau)
-
-- SIEM : Wazuh, Splunk (bases)
-
-- Framework : MITRE ATT&CK
-
-- Scripts Python pour parser des fichiers de logs
-
-- Outils : Wireshark, Suricata, nmap, Fail2ban
-
-- Notions : Incident Response, threat detection, blue teaming
-
-## Compétences en Data Analysis
-- Langages : Python (Pandas, NumPy, Matplotlib, Seaborn)
-
-- Bases de données : SQL, PostgreSQL
-
-- Visualisation : Power BI, Tableau
-
-- Statistiques descriptives, analyse exploratoire, data cleaning
-
-- Outils : Jupyter Notebook, Git, Google Sheets
+- **Systèmes** : Linux (Debian, Ubuntu), Windows Server (AD, GPO)
+- **Réseaux** : TCP/IP, DNS, DHCP, VLAN, VPN, Firewall
+- **Cybersécurité** : Hardening, supervision (SIEM), surveillance réseau, réponse aux incidents
+- **Langages** : Python (scripting, automation), Bash, PowerShell
+- **Outils** : Wireshark, pfSense, VirtualBox, GNS3, Git, Ansible, Docker (initiation)
 
 ---
 
-## Projets en vedette
+## Objectif professionnel
 
-
-- **Scripts Python d’analyse de logs système :**
-  projet d’agrégation simple de logs (en cours)  
-
-- **Tableau de bord Power BI sur des données publiques:**   
-
-- **Analyse de jeux de données CSV : nettoyage, traitement, visualisation :**
-
-- **Challenges TryHackMe & Hack The Box :**  
-   résolution de labs pratiques en cybersécurité  
+Je me spécialise en **Cybersécurité** et **Systèmes & Réseaux**, avec l’objectif de devenir Analyste SOC et Administrateur Systèmes/Réseaux.  
+Je suis ouvert aux opportunités en **CDI, stage, alternance, télétravail ou freelance.**
 
 ---
-
 ## Contact
 
 - adangcharles3@gmail.com|mailto:adangcharles3@gmail.com
