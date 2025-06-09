@@ -1,5 +1,5 @@
 # Salut, je suis Charles !
-## Analyste Cybersécurité Junior | Analyste SOC | Ingénieur Informatique avec spécialisation sécurité | Python
+## Analyste Cybersécurité Junior | Analyste SOC | Ingénieur Informatique avec spécialisation sécurité des Systèmes & Réseaux | Python
 Étudiant en Master Sécurité Informatique & Systèmes d’Information  
 Passionné par la cybersécurité, l'administration systèmes & réseaux,l'automatisation et le développement d'applications
 
