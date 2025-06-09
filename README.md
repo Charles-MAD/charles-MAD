@@ -1,8 +1,7 @@
 # Salut, je suis Charles !
-## Analyste Cybersécurité Junior | Administration Systèmes & Réseaux | Linux, Windows Server, Python
+## Analyste Cybersécurité Junior | Analyste SOC | Ingénieur Informatique avec spécialisation sécurité | Python
 Étudiant en Master Sécurité Informatique & Systèmes d’Information  
-Titulaire d’un Master en Systèmes & Logiciels en environnement distribué  
-Passionné par la cybersécurité, l'administration systèmes & réseaux, et l'automatisation
+Passionné par la cybersécurité, l'administration systèmes & réseaux,l'automatisation et le développement d'applications
 
 ---
 
@@ -28,11 +27,11 @@ Je suis également en train de suivre plusieurs formations et certifications pou
 
 ## Objectif professionnel
 
-- Développer mes compétences en cybersécurité opérationnelle et administration systèmes  
+- Développer mes compétences en cybersécurité opérationnelle, administration systèmes et développement d'applications
 - Contribuer à des projets sécurisés et innovants  
 - Collaborer dans des environnements IT dynamiques, en présentiel ou à distance
 
-Je me spécialise en **Cybersécurité** et **Systèmes & Réseaux**, avec l’objectif de devenir Analyste SOC et Administrateur Systèmes/Réseaux.  
+Je me spécialise en **Cybersécurité** et **Systèmes & Réseaux** et  **Dévoloppement d'applications**, avec l’objectif de devenir Analyste SOC et Administrateur Systèmes/Réseaux.  
 Je suis ouvert aux opportunités en **CDI, stage, alternance, télétravail ou freelance.**
 
 ---
