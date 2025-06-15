@@ -1,47 +1,59 @@
 # Salut, je suis Charles !
 
-Titulaire d’un Master en Informatique  
-Objectif : Devenir Analyste SOC & Développeur Frontend
-
-Bienvenue sur mon GitHub !  
-Je suis actuellement en reconversion active vers deux domaines qui me passionnent :  
-la cybersécurité défensive (SOC) et le développement web frontend.
+**Développeur Python Junior** | Backend · Full Stack · Data  
+Master en Informatique | Passionné par la Tech, l’apprentissage continu et les projets concrets
 
 ---
 
-## Côté Analyste SOC :
-Je me forme en continu via des ressources pratiques et des laboratoires :
-- Concepts : détection d’incidents, analyse de logs, MITRE ATT&CK
-- Outils : Splunk, ELK Stack, Sysmon, Wireshark
-- Plateformes : TryHackMe, Blue Team Labs, CyberDefenders
-- Projets : analyses de logs, création de mini-labs, résumés de détections
+##propos de moi
+
+Je suis un développeur Python en pleine montée en compétences, avec un fort intérêt pour le **développement backend**, le **développement web full stack**, et la **data science**.
+
+Je construis des projets pratiques pour apprendre en profondeur les outils du métier :
+- APIs REST avec **Flask** et **Django**
+- Interfaces dynamiques avec **HTML/CSS/JavaScript** et **React**
+- Traitement de données avec **Pandas**, **NumPy**, **Jupyter****matplotlib****Seaborn**
+- Gestion de bases de données avec **PostgreSQL** et **SQLite**
+- Suivi de version avec **Git/GitHub**
+
+Je documente et partage chaque projet ici, en open source.
 
 ---
 
-## Côté Développeur Frontend :
-Je construis des interfaces modernes et responsives avec :
-- Technologies : HTML, CSS, JavaScript
-- Framework : React (hooks, props, router…)
-- Projets : pages web, formulaire de connexion, tableaux de bord
-- Outils : Git, GitHub, VS Code
+## Projets récents
+
+🔹 [API REST avec Flask – Gestion de livres](https://github.com/tonprofil/nom-du-projet)  
+🔹 [Tableau de bord de données COVID avec Pandas & Plotly](https://github.com/tonprofil/nom-du-projet)  
+🔹 [Portfolio Full Stack avec Django + React](https://github.com/tonprofil/nom-du-projet)  
+🔹 [Exploration de données : Jeux Vidéo (Pandas & Seaborn)](https://github.com/tonprofil/nom-du-projet)
+
+*(+ d’autres projets à venir chaque semaine !)*
 
 ---
 
-## Projets en cours et à venir :
-- Analyse de logs Windows (.evtx)
-- Mini-site vitrine avec HTML/CSS
-- Application React simple avec formulaire utilisateur
-- Documentation technique sur GitHub en Markdown
+## Compétences techniques
+
+**Langages & Frameworks :**  
+`Python` · `Django` · `Flask` · `HTML/CSS` · `JavaScript` · `React` · `SQL`
+
+**Outils & Écosystème :**  
+`Git` · `GitHub` · `VS Code` · `Postman` · `Jupyter Notebook` · `Pandas` · `NumPy`· `matplotlib`· `Seaborn`
+
+**En formation continue sur :**  
+`FastAPI` · `Docker` · `CI/CD` · `Machine Learning` (scikit-learn) · `GraphQL`
 
 ---
 
----
-## Contact
+## Me contacter
 
-- adangcharles3@gmail.com|mailto:adangcharles3@gmail.com
-- https://www.linkedin.com/in/charles-mpon-a-dang-2b0649358
+madcpatson90@gmail.com 
+www.linkedin.com/in/charles-mpon-a-dang-2b0649358
+
+Je suis **ouvert aux collaborations, aux retours sur mes projets, ou à toute opportunité dans le développement Python**. N’hésitez pas à me contacter ou à me suivre pour voir ma progression !
 
 ---
+
+Merci d’avoir visité mon profil GitHub !
 
 
 
