@@ -1,46 +1,49 @@
 # Salut, je suis Charles !
 
-**Développeur Python Junior** | Backend · Full Stack · Data  
-Master en Informatique | Passionné par la Tech, l’apprentissage continu et les projets concrets
+Développeur Python Junior | Backend · Full Stack · Data  
+Master en Informatique | Passionné par la Tech & l’Apprentissage continu
 
 ---
 
-##propos de moi
+##En pleine reconversion Tech
 
-Je suis un développeur Python en pleine montée en compétences, avec un fort intérêt pour le **développement backend**, le **développement web full stack**, et la **data science**.
+Je me forme activement au développement Python orienté **backend**, **full stack web** et **data**.  
+J’avance étape par étape, en construisant des projets personnels que je publierai ici très bientôt sur GitHub.
 
-Je construis des projets pratiques pour apprendre en profondeur les outils du métier :
-- APIs REST avec **Flask** et **Django**
-- Interfaces dynamiques avec **HTML/CSS/JavaScript** et **React**
-- Traitement de données avec **Pandas**, **NumPy**, **Jupyter****matplotlib****Seaborn**
-- Gestion de bases de données avec **PostgreSQL** et **SQLite**
-- Suivi de version avec **Git/GitHub**
-
-Je documente et partage chaque projet ici, en open source.
+**Mon objectif :** devenir développeur Python professionnel en quelques mois.
 
 ---
 
-## Projets récents
-
-🔹 [API REST avec Flask – Gestion de livres](https://github.com/tonprofil/nom-du-projet)  
-🔹 [Tableau de bord de données COVID avec Pandas & Plotly](https://github.com/tonprofil/nom-du-projet)  
-🔹 [Portfolio Full Stack avec Django + React](https://github.com/tonprofil/nom-du-projet)  
-🔹 [Exploration de données : Jeux Vidéo (Pandas & Seaborn)](https://github.com/tonprofil/nom-du-projet)
-
-*(+ d’autres projets à venir chaque semaine !)*
-
----
-
-## Compétences techniques
+##Technologies en cours d’apprentissage
 
 **Langages & Frameworks :**  
 `Python` · `Django` · `Flask` · `HTML/CSS` · `JavaScript` · `React` · `SQL`
 
-**Outils & Écosystème :**  
-`Git` · `GitHub` · `VS Code` · `Postman` · `Jupyter Notebook` · `Pandas` · `NumPy`· `matplotlib`· `Seaborn`
+**Data & Analyse :**  
+`Pandas` · `NumPy` · `Jupyter` · `Matplotlib`· `Seaborn`
 
-**En formation continue sur :**  
-`FastAPI` · `Docker` · `CI/CD` · `Machine Learning` (scikit-learn) · `GraphQL`
+**Outils & Environnement :**  
+`Git` · `GitHub` · `Postman` · `VS Code`· `Kubernate`
+
+---
+
+## Projets à venir
+
+Je travaille actuellement sur des projets concrets que je publierai prochainement ici :  
+- API REST avec Flask  
+- Tableau de bord de données COVID  
+- Exploration de données (projet jeux vidéo)  
+- Portfolio personnel avec Django ou React  
+
+➡Suivez-moi pour voir mes projets évoluer chaque semaine.
+
+---
+
+## Formations en cours
+
+- **Développeur Python – Backend & Full Stack**  
+- **Introduction à la Data Science**  
+- **Versioning avec Git et GitHub**
 
 ---
 
