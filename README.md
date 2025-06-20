@@ -1,6 +1,6 @@
 # Salut, je suis Charles !
 
-Développeur Python Junior | Backend · Full Stack · Data  
+Développeur Python Junior | Web · Data  
 Master en Informatique | Passionné par la Tech & l’Apprentissage continu
 
 ---
