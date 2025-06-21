@@ -1,6 +1,6 @@
 # Salut, je suis Charles !
 
-Développeur Python Junior | Web · Data  
+Junior Full Stack Software Engineer | Python & JavaScript
 Master en Informatique | Passionné par la Tech & l’Apprentissage continu
 
 ---
@@ -17,7 +17,7 @@ J’avance étape par étape, en construisant des projets personnels que je publ
 ##Technologies en cours d’apprentissage
 
 **Langages & Frameworks :**  
-`Python` · `Django` · `Flask` · `HTML/CSS` · `JavaScript` · `React` · `SQL`
+`Python` · `FastAPI` `Django` · `Flask` · `HTML/CSS` · `JavaScript` · `React` · `SQL`
 
 **Data & Analyse :**  
 `Pandas` · `NumPy` · `Jupyter` · `Matplotlib`· `Seaborn`
