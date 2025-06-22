@@ -1,6 +1,6 @@
 # Salut, je suis Charles !
 
-Junior Full Stack Software Engineer | Python & JavaScript
+Junior Full Stack Software Engineer | Python & JavaScript | Data
 Master en Informatique | Passionné par la Tech & l’Apprentissage continu
 
 ---
