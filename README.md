@@ -1,62 +1,24 @@
-# Salut, je suis Charles !
+# Portfolio de Cybersécurité – Charles
 
-Junior Full Stack Software Engineer | Python & JavaScript | Data |
-Master en Informatique | Passionné par la Tech & l’Apprentissage continu
+Bienvenue sur mon dépôt GitHub dédié à mon apprentissage et à mes projets en cybersécurité.
 
----
+## Objectif
+Devenir opérationnel en tant que junior en cybersécurité (pentest, sécurité web/réseau) via une formation intensive 100% pratique sur 6 mois.
 
-##En pleine reconversion Tech
+## Contenu du portfolio
+📁 `/fiches-techniques/` – Notes personnelles (réseaux, Linux, protocoles, etc.)  
+📁 `/rapports/` – Rapports de test fictifs (WordPress, OWASP, etc.)  
+📁 `/scripts/` – Scripts simples (bash, python) pour automatiser certaines tâches  
+📁 `/ctf/` – Résultats et writeups TryHackMe, OverTheWire
 
-Je me forme activement au développement Python orienté **backend**, **full stack web** et **data**.  
-J’avance étape par étape, en construisant des projets personnels que je publierai ici très bientôt sur GitHub.
+## Statut actuel
+En formation | Actuellement sur le mois 1 – Réseaux et Linux  
+Mise à jour régulière
 
-**Mon objectif :** devenir développeur Python professionnel en quelques mois.
+## Contact
+- LinkedIn : www.linkedin.com/in/charles-mpon-a-dang-2b0649358
+- Email : charles-MAD
 
----
-
-##Technologies en cours d’apprentissage
-
-**Langages & Frameworks :**  
-`Python` · `FastAPI` `Django` · `Flask` · `HTML/CSS` · `JavaScript` · `React` · `SQL`
-
-**Data & Analyse :**  
-`Pandas` · `NumPy` · `Jupyter` · `Matplotlib`· `Seaborn`
-
-**Outils & Environnement :**  
-`Git` · `GitHub` · `Postman` · `VS Code`· `Kubernate`
-
----
-
-## Projets à venir
-
-Je travaille actuellement sur des projets concrets que je publierai prochainement ici :  
-- API REST avec Flask  
-- Tableau de bord de données COVID  
-- Exploration de données (projet jeux vidéo)  
-- Portfolio personnel avec Django ou React  
-
-➡Suivez-moi pour voir mes projets évoluer chaque semaine.
-
----
-
-## Formations en cours
-
-- **Développeur Python – Backend & Full Stack**  
-- **Introduction à la Data Science**  
-- **Versioning avec Git et GitHub**
-
----
-
-## Me contacter
-
-madcpatson90@gmail.com 
-www.linkedin.com/in/charles-mpon-a-dang-2b0649358
-
-Je suis **ouvert aux collaborations, aux retours sur mes projets, ou à toute opportunité dans le développement Python**. N’hésitez pas à me contacter ou à me suivre pour voir ma progression !
-
----
-
-Merci d’avoir visité mon profil GitHub !
 
 
 
