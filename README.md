@@ -1,23 +1,26 @@
 # Portfolio de Cybersécurité – Charles
 
+Junior Cybersecurity Analyst | Blue Team & SOC Enthusiast | En formation active
+
 Bienvenue sur mon dépôt GitHub dédié à mon apprentissage et à mes projets en cybersécurité.
 
-## Objectif
-Devenir opérationnel en tant que junior en cybersécurité (pentest, sécurité web/réseau) via une formation intensive 100% pratique sur 6 mois.
+## Cybersécurité
+- Surveillance de sécurité (SOC Level 1 labs - TryHackMe)
+- Analyse de trafic (Wireshark, Zeek), Nmap, Burp Suite, MITRE ATT&CK
+- Connaissances solides en systèmes (Linux), réseaux (TCP/IP), sécurité Web
 
-## Contenu du portfolio
-📁 `/fiches-techniques/` – Notes personnelles (réseaux, Linux, protocoles, etc.)  
-📁 `/rapports/` – Rapports de test fictifs (WordPress, OWASP, etc.)  
-📁 `/scripts/` – Scripts simples (bash, python) pour automatiser certaines tâches  
-📁 `/ctf/` – Résultats et writeups TryHackMe, OverTheWire
+## Autres compétences utiles
+Je m'intéresse aussi à l'analyse de données appliquée à la cybersécurité :  
+- Utilisation de Python pour analyser et visualiser des logs
+- Corrélation d'événements et exploration de comportements réseau anormaux
+- Outils : Pandas, Matplotlib, Jupyter Notebooks
 
-## Statut actuel
-En formation | Actuellement sur le mois 1 – Réseaux et Linux  
-Mise à jour régulière
+## Objectif : Devenir analyste SOC efficace, capable de détecter et comprendre les menaces à l’aide d’outils offensifs et défensifs.
+
 
 ## Contact
-- LinkedIn : www.linkedin.com/in/charles-mpon-a-dang-2b0649358
-- Email : https://github.com/Charles-MAD
+- LinkedIn : www.linkedin.com/in/charles-mpon-a-dang-2b0649358 
+- Email : https://github.com/Charles-MAD 
 
 
 
