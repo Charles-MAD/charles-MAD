@@ -1,4 +1,5 @@
 # Portfolio de Cybersécurité – Charles
+Bienvenue sur mon dépôt GitHub dédié à mon apprentissage et à mes projets en cybersécurité.
 
 Junior Cybersecurity Analyst | Blue Team & SOC Enthusiast | En formation active
 
