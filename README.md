@@ -6,7 +6,7 @@ Junior Cybersecurity Analyst | Blue Team & SOC Enthusiast | En formation active
 ## Cybersécurité
 - Surveillance de sécurité (SOC Level 1 labs - TryHackMe)
 - Analyse de trafic (Wireshark, Zeek), Nmap, Scanning, monitoring,  Burp Suite, MITRE ATT&CK
-- Connaissances solides en systèmes (Linux), réseaux (TCP/IP), sécurité Web
+- Connaissances solides en systèmes (Linux), réseaux (TCP/IP), sécurité Web, Python, Bash & Shellbash
 
 ## Autres compétences utiles
 Je m'intéresse aussi à l'analyse de données appliquée à la cybersécurité :  
