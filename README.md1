@@ -1,0 +1,48 @@
+Étude théorique : mode opératoire des attaquants & impacts d'une cyberattaque
+
+Résumé
+Notes synthétiques issues d’une étude théorique menée le [mettre la date si souhaité]. Le but : comprendre les tactiques, techniques et procédures (TTPs) des attaquants, identifier les impacts majeurs et lister des contre-mesures opérationnelles.
+
+Contenu
+
+Contexte & objectifs
+
+Mode opératoire (phases d’attaque)
+
+Glossaire : vulnérabilité vs faille
+
+Impacts (opérationnel, financier, légal, réputation, humains) 
+
+Recommandations pratiques (prévention, détection, réponse)
+
+Références & lectures recommandées
+
+Méthodologie
+
+Synthèse documentaire et raisonnement théorique : classification des phases d’attaque (reconnaissance, initial access, execution, persistence, privilege escalation, lateral movement, exfiltration/chiffrement) et cartographie des impacts business/techniques.
+
+Résultats clés (extraits)
+
+Les ransomwares exploitent souvent une chaîne : vulnérabilité non corrigée → compte compromis → mouvement latéral → chiffrement.
+
+Une sauvegarde isolée et testée réduit drastiquement l’impact opérationnel.
+
+La détection précoce (EDR / logs / segmentation) est plus efficace que la seule prévention.
+
+Glossaire rapide
+
+Vulnérabilité : faiblesse technique ou configuration pouvant être exploitée.
+
+Faille : défaut précis dans un composant (ex. buffer overflow dans la version X.Y).
+
+Recommandations pratiques
+
+Mises à jour / patching réguliers.
+
+Sauvegardes hors-ligne / immutables.
+
+Segmentation réseau + principe du moindre privilège.
+
+Solutions de détection (EDR, SIEM) et playbooks d’IR testés.
+
+Sensibilisation & phishing tests réguliers.
